@@ -4,15 +4,15 @@ Full app (backend + frontend + mobile).
 
 Oministack week, March/2020.
 
-### Backend: 
+### [Backend](backend/README.md): 
 
 * Nodejs
 
-### Frontend: 
+### [Frontend](frontend/README.md): 
 
 * ReactJS
 
-### Mobile: 
+### [Mobile](mobile/README.md): 
 
 * React Native
 
